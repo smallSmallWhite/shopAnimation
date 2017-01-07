@@ -15,6 +15,7 @@
 		843EF3BD1E213C7400ECED9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 843EF3BB1E213C7400ECED9F /* LaunchScreen.storyboard */; };
 		843EF3C81E213C7500ECED9F /* AddAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 843EF3C71E213C7500ECED9F /* AddAnimationTests.m */; };
 		843EF3D31E213C7500ECED9F /* AddAnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 843EF3D21E213C7500ECED9F /* AddAnimationUITests.m */; };
+		843EF3E11E213F7700ECED9F /* d5eace7a1d0d79538d0d2c4bdf7c78a6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 843EF3E01E213F7700ECED9F /* d5eace7a1d0d79538d0d2c4bdf7c78a6.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		843EF3CE1E213C7500ECED9F /* AddAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AddAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		843EF3D21E213C7500ECED9F /* AddAnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddAnimationUITests.m; sourceTree = "<group>"; };
 		843EF3D41E213C7500ECED9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		843EF3E01E213F7700ECED9F /* d5eace7a1d0d79538d0d2c4bdf7c78a6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = d5eace7a1d0d79538d0d2c4bdf7c78a6.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				843EF3B11E213C7400ECED9F /* AppDelegate.m */,
 				843EF3B31E213C7400ECED9F /* ViewController.h */,
 				843EF3B41E213C7400ECED9F /* ViewController.m */,
+				843EF3E01E213F7700ECED9F /* d5eace7a1d0d79538d0d2c4bdf7c78a6.jpg */,
 				843EF3B61E213C7400ECED9F /* Main.storyboard */,
 				843EF3B91E213C7400ECED9F /* Assets.xcassets */,
 				843EF3BB1E213C7400ECED9F /* LaunchScreen.storyboard */,
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				843EF3E11E213F7700ECED9F /* d5eace7a1d0d79538d0d2c4bdf7c78a6.jpg in Resources */,
 				843EF3BD1E213C7400ECED9F /* LaunchScreen.storyboard in Resources */,
 				843EF3BA1E213C7400ECED9F /* Assets.xcassets in Resources */,
 				843EF3B81E213C7400ECED9F /* Main.storyboard in Resources */,
@@ -498,6 +502,7 @@
 				843EF3D91E213C7500ECED9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		843EF3DA1E213C7500ECED9F /* Build configuration list for PBXNativeTarget "AddAnimationTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +511,7 @@
 				843EF3DC1E213C7500ECED9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		843EF3DD1E213C7500ECED9F /* Build configuration list for PBXNativeTarget "AddAnimationUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +520,7 @@
 				843EF3DF1E213C7500ECED9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
