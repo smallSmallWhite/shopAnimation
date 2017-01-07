@@ -16,6 +16,8 @@
 @implementation ViewController
 - (IBAction)addShop:(id)sender {
     
+    
+    
     CAKeyframeAnimation *anima1 = [CAKeyframeAnimation animationWithKeyPath:@"position"];
     UIBezierPath *aPath = [UIBezierPath bezierPath];
     aPath.lineWidth = 5.0;
